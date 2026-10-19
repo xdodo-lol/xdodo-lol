@@ -1,2 +1,2 @@
 ## Hey 👋
-![Weather Checker screenshot](hey.png)
+![Weather Checker screenshot](banner.png)
